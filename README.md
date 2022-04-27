@@ -1,7 +1,7 @@
 # Scrap Mechanic Blueprint Import-Export Guide
 
-This repository is attended to guide you into the implementation of an importation and exportation commands, 
-allowing you to import and export your contraception blueprint from creative mode to survival mode.
+This repository is attended to guide you into the implementation of the importation and exportation commands, 
+allowing you to import and export your contraception blueprints from creative mode to survival mode.
 
 The fact that commands `/import` and `/export` doesn't work natively is that they are not implemented in the creative mode, and not bind without the dev-mode enabled.
 
