@@ -3,7 +3,7 @@
 This repository is attended to guide you into the implementation of the importation and exportation commands, 
 allowing you to import and export your contraception blueprints from creative mode to survival mode.
 
-The fact that commands `/import` and `/export` doesn't work natively is that they are not implemented in the creative mode, and not bind without the dev-mode enabled.
+The fact that commands `/import` and `/export` doesn't work natively is that they are not implemented in the creative mode, and not bound without the dev-mode enabled.
 
 ## Compatibility
 
@@ -14,7 +14,7 @@ Working for build ID : `6956308` (30th june 2021)
 ## Requirements
 
 - A working version of *Scrap Mechanic* (on *Steam*)
-- Text editor (that can preserve file encoding and line separator) for Windows, the native notepad or [Notepad++](https://notepad-plus-plus.org/downloads/) are good choice.
+- Text editor (that can preserve file encoding and line separator) for Windows, the native notepad or [Notepad++](https://notepad-plus-plus.org/downloads/) are good choices.
 
 ## Implementing the commands
 
